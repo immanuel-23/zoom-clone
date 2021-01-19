@@ -1,0 +1,12 @@
+>>>>Zoom Clone Notes >>>>>
+1) npm init -y this wil create a boiler plate and packet.json
+2) install npm express ejs socket.io
+ we install express for server socket ffor connection
+	example npm i express socket.io ejs
+3) Then install uudi for dynamic urls and  roms
+4)PS E:\Zoom> npm i --save-dev nodemon THIS for dynnamic refresh with the help of this we dont
+need to refresh oour website ever single time
+17:08
+5) to run server in one terminal write npm run devStart
+6)View- In this folder, you can write HTML code for displaying a web page on the web browser.
+ Even you can send the data from the controller to view for displaying data dynamically.
